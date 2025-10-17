@@ -1,30 +1,43 @@
-# Mech-robots-by-Risab-Gamerz
-Mech Robots  
-Bring futuristic power to your Minecraft world with Mech Robots! These incredible machines can perform a variety of tasks to make your adventures easier and more exciting. From defending your builds against monsters to helping you collect valuable minerals underground, these robots are the perfect allies.
-
-Not only can you rely on them for protection and resource gathering, but you can also drive them and even take shelter inside for extra safety. Each mech has its own unique design and functionality, making them both powerful tools and fun companions in your world.
-
-Features:
-
-Combat-ready robots to defend against hostile mobs
-
-Mining assistance for resource collection underground
-
-Drivable mechs with shelter capabilities
-
-Multiple robot designs with colorful, futuristic looks
+The Functional Modern Furniture addon transforms your Minecraft world with stylish and interactive furniture and decorations. From sleek living room sets to functional bathroom fixtures and seasp1onal decorations, this addon combines aesthetics with utility to elevate your builds.
 
 
 
 
+Key Features:
 
-How to Install:
+Living Room Essentials: Sofas, coffee tables, bookshelves, and lamps to create cozy and elegant spaces.
 
-1. Download and install the McAddon file.
+Bathroom Fixtures: Toilets, showers, bathtubs, and cabinets for fully functional bathrooms.
+
+Festive Decorations: Christmas trees, lights, and ornaments to bring seasonal cheer.
+
+Interactive Furniture:
+
+Make calls with the telephone.
+
+Watch movies on the TV.
+
+Play music on radios.
+
+Set alarms on clocks.
+
+Use toilets and seating naturally.
+
+Turn lights, air conditioners, and bells on/off.
 
 
-2. Activate both the behavior pack and resource pack in the game settings.
+Customization: Change colors and variants of furniture to match your personal style.
+
+Connected Blocks: Seamlessly place sofas, curtains, and other multi-piece furniture for realistic arrangements.
+
+Storage Solutions: Organize your items in drawers, cabinets, and bookshelves.
+
+
+Why Choose Functional Modern Furniture:
+This addon isn’t just about decorating—it’s about creating a living, interactive world. Every piece of furniture has purpose and personality, making your Minecraft experience more immersive .
 
 
 
-Enhance your Minecraft experience and take survival to the next level with Mech Robots!
+
+
+It can have many bugs but the bugs will be fixed soon and Recipies for all furnitures will be added
